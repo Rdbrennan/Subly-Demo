@@ -1,6 +1,10 @@
 # Subly-Demo
 
 ### Showcase
-
-<img src="https://github.com/Rdbrennan/Subly-Demo/blob/master/ss.png" width="250" height = "500">
-<img src="https://github.com/Rdbrennan/Subly-Demo/blob/master/ss1.png" width="250" height = "500">
+<p align="center">
+ <img src="https://github.com/Rdbrennan/Subly-Demo/blob/master/ss.png" width="200" height = "370"/>
+ <img src="https://github.com/Rdbrennan/Subly-Demo/blob/master/ssd.png" width="200" height = "370"/>
+ <img src="https://github.com/Rdbrennan/Subly-Demo/blob/master/ss1.png" width="200" height = "370"/>
+ <img src="https://github.com/Rdbrennan/Subly-Demo/blob/master/ss1.png" width="200" height = "370"/>
+ <img src="https://github.com/Rdbrennan/Subly-Demo/blob/master/ss1.png" width="200" height = "370"/>
+</p>
